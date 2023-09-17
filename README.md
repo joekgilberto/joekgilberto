@@ -18,6 +18,8 @@
 
 📧  Email me at [joekgilberto@gmail.com](mailto:joekgilberto@gmail.com)
 
+✏️ Check out my [resume](https://drive.google.com/file/d/1ZYlCtBwwyAmLqasdz17kpGF9C0h90sgm/view)
+
 🔗  Connect with me on LinkedIn at [in/joekgilberto](https://www.linkedin.com/in/joekgilberto/)
 
 ## Goals

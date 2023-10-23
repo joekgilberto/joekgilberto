@@ -27,6 +27,6 @@ My transition into software engineering has allowed me to further develop my cod
 ## Goals
 🔍  I'm currently searching for my first role as a software developer.
 
-👯  I’m looking to collaborate on anyhting from coding challenges to full-stack applications.
+👯  I’m looking to collaborate on a variety of projects, from coding challenges to full-stack applications!
 
 ### Please feel free to email me, connect, or take a peek at my work!  I love to meet new developers.

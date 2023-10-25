@@ -10,7 +10,7 @@
 
 My transition into software engineering has allowed me to further develop my coding abilities. I am now proficient in crafting intuitive and responsive frontend designs while also architecting and maintaining robust backend systems and databases. I am excited to leverage my expertise in development, along with my strengths in cooperation, time management, and effective communication, to tackle a wide range of challenging projects.
 
-## Skills
+## Skills 🎪
 ✨ **Soft Skills**: Troubleshooting, project planning, collaboration, prioritization, project management , time management
 
 🥊 **Technical Skills**: Python, JavaScript, HTML, CSS, EJS, MongoDB & Mongoose, Express.js, React, NodeJS, Django, PostgreSQL, NoSQL and SQL databases, Mocha, Cypress, MVC Architecture, RESTful programming, APIs, Git

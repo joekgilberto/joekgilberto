@@ -13,14 +13,14 @@ My transition into software engineering has allowed me to further develop my cod
 ## Skills 🎪
 ✨ **Soft Skills**: Troubleshooting, project planning, collaboration, prioritization, project management , time management
 
-🥊 **Technical Skills**: Python, JavaScript, HTML, CSS, EJS, MongoDB & Mongoose, Express.js, React, NodeJS, Django, PostgreSQL, NoSQL and SQL databases, Mocha, Cypress, MVC Architecture, RESTful programming, APIs, Git
+🥊 **Technical Skills**: Python, C#, JavaScript, HTML, CSS, EJS, MongoDB & Mongoose, Express.js, React, NodeJS, Django, PostgreSQL, NoSQL and SQL databases, Axios, Mocha.js, Cypress.io, MVC Architecture, RESTful APIs, Git
 
 ## Reach me 📫
-🕸️  Visit my website, [joekgilberto.com](https://joekgilberto.com/)
+🕸️  Visit my website [joekgilberto.com](https://joekgilberto.com/)
 
 📧  Email me at [joekgilberto@gmail.com](mailto:joekgilberto@gmail.com)
 
-✏️ Check out my [resume](https://drive.google.com/file/d/1ZYlCtBwwyAmLqasdz17kpGF9C0h90sgm/view)
+✏️ Check out my [resume](https://drive.google.com/file/d/1AAukBVj_Pqz42LQVwU9zBxom8PvLo1nj/view)
 
 🔗  Connect with me on LinkedIn at [in/joekgilberto](https://www.linkedin.com/in/joekgilberto/)
 

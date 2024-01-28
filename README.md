@@ -4,7 +4,7 @@
 
 📍 **Location**:  Boston, MA
 
-🌱 **Bootcamp**:  General Assembly Software Engineering Immersive
+🌱 **Bootcamp**:  General Assembly Software Engineering Immersive (Remote)
 
 📖 **Bio**:  I am a versatile full-stack software engineer motivated by creative problem-solving and fruitful teamwork. During my time as a marketing producer, I honed my skills in project management, successfully overseeing up to a dozen projects concurrently. This involved working closely with professionals from diverse roles, creating intricate project schedules, and cultivating strong stakeholder relationships.
 

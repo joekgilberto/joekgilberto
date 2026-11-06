@@ -1,28 +1,25 @@
-### Hello, there 👋  My name is Joe Gilberto and welcome to my GitHub!
-## About me 🫶
-🪪 **Pronouns**:  he/him
+### Hello, there, welcome to my GitHub!
+## About Joe Gilberto
+**Location**:  Natick, MA
 
-📍 **Location**:  Boston, MA
+**Position**: Software Engineer II
 
-💼 **Position**: Software Developer at Karen Clark & Co.
+**Education**:  General Assembly Software Engineering Immersive
 
-🌱 **Bootcamp**:  General Assembly Software Engineering Immersive (Remote)
+**Bio**:  I’m a versatile software engineer with a passion for creative problem-solving and collaboration. My journey into software development has been fueled by a passion for building efficient solutions and hands-on contribution to thoughtful user experiences.
 
-📖 **Bio**:  I’m a versatile software engineer with a passion for creative problem-solving and collaboration. My journey into software development has been fueled by a passion for building efficient solutions and hands-on contribution to thoughtful user experiences.
+## Skills
+**Soft Skills**: Project management & planning, troubleshooting, collaboration, prioritization, ptime management
 
-## Skills 🎪
-✨ **Soft Skills**: Troubleshooting, project planning, collaboration, prioritization, project management , time management
+**Technical Skills**: C#, TypeScript, JavaScript, HTML, CSS, SQL, React, Redux, Material UI, Bootstrap, Craft CMS, GitHub, Git, Jira
 
-🥊 **Technical Skills**: C#, JavaScript, TypeScript, HTML, CSS, ASP.NET, MS SQL, PostgreSQL, React, Redux, Bootstrap, GitHub, Git
+## Reach me
+Please feel free to email me, connect, or take a look at my personal work.  I love to grow my professional circle.
 
-## Reach me 📫
-🕸️  Visit my website [joekgilberto.com](https://joekgilberto.com/)
+Visit my website [joekgilberto.com](https://joekgilberto.com/)
 
-📧  Email me at [joekgilberto@gmail.com](mailto:joekgilberto@gmail.com)
+Email me at [joekgilberto@gmail.com](mailto:joekgilberto@gmail.com)
 
-✏️ Check out my [resume](https://drive.google.com/file/d/1AAukBVj_Pqz42LQVwU9zBxom8PvLo1nj/view)
+Check out my [resume](https://drive.google.com/file/d/1AAukBVj_Pqz42LQVwU9zBxom8PvLo1nj/view)
 
-🔗  Connect with me on LinkedIn at [in/joekgilberto](https://www.linkedin.com/in/joekgilberto/)
-
-
-### Please feel free to email me, connect, or take a peek at my work!  I love to meet new developers.
+Connect with me on LinkedIn at [in/joekgilberto](https://www.linkedin.com/in/joekgilberto/) 
